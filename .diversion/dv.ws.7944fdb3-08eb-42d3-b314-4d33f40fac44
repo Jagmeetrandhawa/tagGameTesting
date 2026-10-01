@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.7944fdb3-08eb-42d3-b314-4d33f40fac44",
+  "RepoID": "dv.repo.742aff91-28ed-4cad-a63a-8073e0ff85ff",
+  "Path": "C:\\Users\\Jagmeet\\Documents\\Unreal Projects\\OfficialTagUE5-7-1-Diversion",
+  "AccountID": "Google_110644448390657488876",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "OfficialTagUE5-7-1-Diversion",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
